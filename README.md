@@ -12,7 +12,7 @@
 * **📊 Accessibility Grading System:** A custom 105-point tiered scoring model that grades stadiums on ADA baselines, extended access, and inclusive services.
 * **📞 Guest Services Directory:** A consolidated, interactive table providing phone numbers, emails, and physical booth locations for every stadium.
 
-## 🧮 Scoring Methodology & Conditions
+## Scoring Methodology & Conditions
 Stadiums are scored across three tiers and a bonus 
 category for a maximum of 105 points.
 
