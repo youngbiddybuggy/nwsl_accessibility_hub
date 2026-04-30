@@ -1,0 +1,32 @@
+
+# Data Handling
+pandas
+networkx
+
+# API and Web
+requests
+certifi
+urllib3
+beautifulsoup4
+lxml
+chardet
+charset-normalizer
+
+# Visualization
+plotly
+Pillow
+
+# Date and Time
+python-dateutil
+pytz
+tzdata
+
+# Utilities
+tqdm
+packaging
+typing_extensions
+pydantic
+pydantic_core
+click
+regex
+six

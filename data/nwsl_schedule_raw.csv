@@ -1,0 +1,241 @@
+week_match_up,date,stadium,home_team,away_team
+1,13/03/2026 20:00,Audi Field,Washington Spirit,Portland Thorns
+1,14/03/2026 12:30,Gillette Stadium,Boston Legacy,Gotham FC
+1,14/03/2026 16:00,CPKC Stadium,Kansas City Current,Utah Royals
+1,14/03/2026 18:30,PayPal Park,Bay,Denver Summit
+1,14/03/2026 19:00,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Racing Louisville
+1,14/03/2026 20:45,Snapdragon Stadium,San Diego Wave,Houston Dash
+1,15/03/2026 16:00,Inter&Co Stadium,Orlando Pride,Seattle Reign
+1,15/03/2026 19:00,BMO Stadium,Angel City,Chicago Stars
+2,20/03/2026 20:00,Inter&Co Stadium,Orlando Pride,Denver Summit
+2,20/03/2026 20:00,Lynn Family Stadium,Racing Louisville,Washington Spirit
+2,20/03/2026 22:00,Providence Park,Portland Thorns,Seattle Reign
+2,21/03/2026 16:00,Shell Energy Stadium,Houston Dash,Boston Legacy
+2,21/03/2026 18:30,Sports Illustrated Stadium,Gotham FC,North Carolina Courage
+2,21/03/2026 20:45,PayPal Park,Bay,Angel City
+2,22/03/2026 14:00,Northwestern Medicine Field at Martin Stadium,Chicago Stars,Kansas City Current
+2,22/03/2026 19:00,America First Field,Utah Royals,San Diego Wave
+3,25/03/2026 19:00,Audi Field,Washington Spirit,Utah Royals
+3,25/03/2026 19:00,Sports Illustrated Stadium,Gotham FC,Denver Summit
+3,25/03/2026 20:00,Northwestern Medicine Field at Martin Stadium,Chicago Stars,Orlando Pride
+3,25/03/2026 21:00,One Spokane Stadium,Seattle Reign,Kansas City Current
+3,25/03/2026 22:00,Snapdragon Stadium,San Diego Wave,Portland Thorns
+3,27/03/2026 22:00,BMO Stadium,Angel City,Houston Dash
+3,28/03/2026 12:00,Gillette Stadium,Boston Legacy,Utah Royals
+3,28/03/2026 14:00,Empower Field at Mile High,Denver Summit,Washington Spirit
+3,28/03/2026 16:00,Providence Park,Portland Thorns,Kansas City Current
+3,28/03/2026 18:30,One Spokane Stadium,Seattle Reign,Racing Louisville
+3,28/03/2026 19:00,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Bay
+3,28/03/2026 20:45,Snapdragon Stadium,San Diego Wave,Chicago Stars
+3,29/03/2026 19:00,Sports Illustrated Stadium,Gotham FC,Orlando Pride
+4,03/04/2026 19:00,Gillette Stadium,Boston Legacy,San Diego Wave
+4,03/04/2026 20:00,Inter&Co Stadium,Orlando Pride,Angel City
+4,03/04/2026 20:30,Shell Energy Stadium,Houston Dash,Racing Louisville
+4,03/04/2026 21:00,America First Field,Utah Royals,Chicago Stars
+4,04/04/2026 16:00,CPKC Stadium,Kansas City Current,Gotham FC
+4,04/04/2026 18:30,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Portland Thorns
+4,04/04/2026 20:45,One Spokane Stadium,Seattle Reign,Denver Summit
+4,05/04/2026 17:00,PayPal Park,Bay,Washington Spirit
+5,24/04/2026 17:30,Lynn Family Stadium,Racing Louisville,Orlando Pride
+5,24/04/2026 20:00,Audi Field,Washington Spirit,Kansas City Current
+5,25/04/2026 13:00,Sports Illustrated Stadium,Gotham FC,Bay
+5,25/04/2026 18:30,Northwestern Medicine Field at Martin Stadium,Chicago Stars,Boston Legacy
+5,25/04/2026 20:00,Shell Energy Stadium,Houston Dash,North Carolina Courage
+5,25/04/2026 20:45,Dick's Sporting Goods Park,Denver Summit,San Diego Wave
+5,26/04/2026 18:00,BMO Stadium,Angel City,Portland Thorns
+5,26/04/2026 20:00,Lumen Field,Seattle Reign,Utah Royals
+6,29/04/2026 19:00,Audi Field,Washington Spirit,Racing Louisville
+6,29/04/2026 19:00,Gillette Stadium,Boston Legacy,North Carolina Courage
+6,29/04/2026 20:00,Northwestern Medicine Field at Martin Stadium,Chicago Stars,Gotham FC
+6,29/04/2026 22:00,Providence Park,Portland Thorns,San Diego Wave
+6,01/05/2026 20:00,Shell Energy Stadium,Houston Dash,Seattle Reign
+6,02/05/2026 16:00,Inter&Co Stadium,Orlando Pride,Washington Spirit
+6,02/05/2026 18:30,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Kansas City Current
+6,02/05/2026 20:45,BMO Stadium,Angel City,Utah Royals
+6,03/05/2026 13:00,Northwestern Medicine Field at Martin Stadium,Chicago Stars,Portland Thorns
+6,03/05/2026 15:00,Gillette Stadium,Boston Legacy,Denver Summit
+6,03/05/2026 17:00,Sports Illustrated Stadium,Gotham FC,Racing Louisville
+6,03/05/2026 19:00,Snapdragon Stadium,San Diego Wave,Bay
+7,06/05/2026 22:00,America First Field,Utah Royals,Houston Dash
+7,08/05/2026 18:30,Lynn Family Stadium,Racing Louisville,Portland Thorns
+7,08/05/2026 20:00,Inter&Co Stadium,Orlando Pride,North Carolina Courage
+7,09/05/2026 18:30,Sports Illustrated Stadium,Gotham FC,Boston Legacy
+7,09/05/2026 20:00,Shell Energy Stadium,Houston Dash,Denver Summit
+7,09/05/2026 20:45,BMO Stadium,Angel City,San Diego Wave
+7,10/05/2026 12:30,CPKC Stadium,Kansas City Current,Chicago Stars
+7,10/05/2026 16:00,PayPal Park,Bay,Utah Royals
+7,10/05/2026 19:00,Lumen Field,Seattle Reign,Washington Spirit
+8,12/05/2026 19:00,Gillette Stadium,Boston Legacy,Orlando Pride
+8,15/05/2026 20:00,CPKC Stadium,Kansas City Current,Houston Dash
+8,15/05/2026 22:00,Snapdragon Stadium,San Diego Wave,Washington Spirit
+8,15/05/2026 22:00,Lumen Field,Seattle Reign,Gotham FC
+8,15/05/2026 22:00,PayPal Park,Bay,Boston Legacy
+8,16/05/2026 18:30,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Chicago Stars
+8,16/05/2026 20:45,Dick's Sporting Goods Park,Denver Summit,Orlando Pride
+8,17/05/2026 18:00,Providence Park,Portland Thorns,Angel City
+8,17/05/2026 20:00,America First Field,Utah Royals,Racing Louisville
+9,20/05/2026 20:00,Shell Energy Stadium,Houston Dash,San Diego Wave
+9,20/05/2026 22:00,Providence Park,Portland Thorns,Bay
+9,20/05/2026 22:00,BMO Stadium,Angel City,Kansas City Current
+9,22/05/2026 20:00,Centreville Bank Stadium,Boston Legacy,Seattle Reign
+9,23/05/2026 16:00,Lynn Family Stadium,Racing Louisville,North Carolina Courage
+9,23/05/2026 18:30,America First Field,Utah Royals,Denver Summit
+9,23/05/2026 20:45,Shell Energy Stadium,Houston Dash,Angel City
+9,24/05/2026 13:00,CPKC Stadium,Kansas City Current,Portland Thorns
+9,24/05/2026 17:00,PayPal Park,Bay,Chicago Stars
+9,24/05/2026 19:00,Snapdragon Stadium,San Diego Wave,Orlando Pride
+10,29/05/2026 19:00,Inter&Co Stadium,Orlando Pride,Bay
+10,29/05/2026 20:00,Lynn Family Stadium,Racing Louisville,Denver Summit
+10,30/05/2026 13:30,CPKC Stadium,Kansas City Current,Boston Legacy
+10,30/05/2026 16:00,Providence Park,Portland Thorns,Utah Royals
+10,30/05/2026 18:30,Audi Field,Washington Spirit,Seattle Reign
+10,31/05/2026 13:00,Northwestern Medicine Field at Martin Stadium,Chicago Stars,San Diego Wave
+10,31/05/2026 15:00,Sports Illustrated Stadium,Gotham FC,Houston Dash
+10,31/05/2026 19:00,BMO Stadium,Angel City,North Carolina Courage
+11,03/07/2026 20:00,Audi Field,Washington Spirit,Houston Dash
+11,03/07/2026 21:30,Centennial Stadium,Denver Summit,Kansas City Current
+11,03/07/2026 22:00,BMO Stadium,Angel City,Orlando Pride
+11,04/07/2026 18:30,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Seattle Reign
+11,04/07/2026 20:45,Snapdragon Stadium,San Diego Wave,Gotham FC
+11,05/07/2026 12:00,Centreville Bank Stadium,Boston Legacy,Bay
+11,05/07/2026 17:00,Northwestern Medicine Field at Martin Stadium,Chicago Stars,Utah Royals
+11,05/07/2026 19:00,Providence Park,Portland Thorns,Racing Louisville
+12,10/07/2026 20:00,Inter&Co Stadium,Orlando Pride,Kansas City Current
+12,10/07/2026 20:00,Lynn Family Stadium,Racing Louisville,Bay
+12,10/07/2026 20:00,Centreville Bank Stadium,Boston Legacy,Chicago Stars
+12,10/07/2026 22:00,America First Field,Utah Royals,Gotham FC
+12,11/07/2026 18:30,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Washington Spirit
+12,11/07/2026 20:45,Snapdragon Stadium,San Diego Wave,Angel City
+12,12/07/2026 16:00,Lumen Field,Seattle Reign,Portland Thorns
+12,12/07/2026 19:00,Centennial Stadium,Denver Summit,Houston Dash
+13,15/07/2026 19:00,Inter&Co Stadium,Orlando Pride,Boston Legacy
+13,15/07/2026 20:00,Citi Field,Gotham FC,Washington Spirit
+13,17/07/2026 20:00,CPKC Stadium,Kansas City Current,San Diego Wave
+13,18/07/2026 12:00,Icahn Stadium,Gotham FC,Seattle Reign
+13,18/07/2026 14:00,Centennial Stadium,Denver Summit,Portland Thorns
+13,18/07/2026 16:00,PayPal Park,Bay,North Carolina Courage
+13,18/07/2026 18:30,Northwestern Medicine Field at Martin Stadium,Chicago Stars,Angel City
+13,18/07/2026 20:00,Lynn Family Stadium,Racing Louisville,Houston Dash
+13,18/07/2026 20:45,America First Field,Utah Royals,Orlando Pride
+13,19/07/2026 19:00,Centreville Bank Stadium,Boston Legacy,Washington Spirit
+14,24/07/2026 20:00,Inter&Co Stadium,Orlando Pride,Chicago Stars
+14,24/07/2026 20:00,Shell Energy Stadium,Houston Dash,Bay
+14,24/07/2026 22:00,Providence Park,Portland Thorns,Gotham FC
+14,25/07/2026 17:00,Centreville Bank Stadium,Boston Legacy,Kansas City Current
+14,25/07/2026 19:45,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Utah Royals
+14,26/07/2026 17:00,Snapdragon Stadium,San Diego Wave,Seattle Reign
+14,26/07/2026 19:00,Audi Field,Washington Spirit,Denver Summit
+14,26/07/2026 21:00,BMO Stadium,Angel City,Racing Louisville
+15,29/07/2026 20:00,CPKC Stadium,Kansas City Current,Racing Louisville
+15,29/07/2026 21:00,America First Field,Utah Royals,Washington Spirit
+15,29/07/2026 22:00,PayPal Park,Bay,Gotham FC
+15,31/07/2026 20:00,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Orlando Pride
+15,01/08/2026 16:00,Lynn Family Stadium,Racing Louisville,Chicago Stars
+15,01/08/2026 18:30,CPKC Stadium,Kansas City Current,Angel City
+15,01/08/2026 20:00,Shell Energy Stadium,Houston Dash,Gotham FC
+15,01/08/2026 20:45,PayPal Park,Bay,Seattle Reign
+15,02/08/2026 16:00,Audi Field,Washington Spirit,San Diego Wave
+15,02/08/2026 19:00,America First Field,Utah Royals,Portland Thorns
+15,02/08/2026 21:00,Centennial Stadium,Denver Summit,Boston Legacy
+16,05/08/2026 22:00,Centennial Stadium,Denver Summit,North Carolina Courage
+16,07/08/2026 19:00,Inter&Co Stadium,Orlando Pride,Racing Louisville
+16,07/08/2026 20:00,Sports Illustrated Stadium,Gotham FC,San Diego Wave
+16,08/08/2026 16:00,Centennial Stadium,Denver Summit,Utah Royals
+16,08/08/2026 18:30,Audi Field,Washington Spirit,North Carolina Courage
+16,08/08/2026 20:45,Shell Energy Stadium,Houston Dash,Kansas City Current
+16,09/08/2026 16:00,Centreville Bank Stadium,Boston Legacy,Portland Thorns
+16,09/08/2026 19:00,Northwestern Medicine Field at Martin Stadium,Chicago Stars,Bay
+16,09/08/2026 21:00,Lumen Field,Seattle Reign,Angel City
+17,14/08/2026 20:00,Sports Illustrated Stadium,Gotham FC,Kansas City Current
+17,14/08/2026 22:00,America First Field,Utah Royals,Bay
+17,14/08/2026 22:00,Lumen Field,Seattle Reign,Chicago Stars
+17,14/08/2026 22:00,Snapdragon Stadium,San Diego Wave,Denver Summit
+17,15/08/2026 18:30,Lynn Family Stadium,Racing Louisville,Boston Legacy
+17,15/08/2026 20:45,Providence Park,Portland Thorns,Orlando Pride
+17,16/08/2026 19:00,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Houston Dash
+17,16/08/2026 21:00,BMO Stadium,Angel City,Washington Spirit
+18,19/08/2026 18:30,Lynn Family Stadium,Racing Louisville,Seattle Reign
+18,19/08/2026 20:00,Shell Energy Stadium,Houston Dash,Chicago Stars
+18,21/08/2026 22:00,Snapdragon Stadium,San Diego Wave,Utah Royals
+18,22/08/2026 18:30,CPKC Stadium,Kansas City Current,Seattle Reign
+18,22/08/2026 19:30,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Boston Legacy
+18,22/08/2026 20:45,Providence Park,Portland Thorns,Denver Summit
+18,23/08/2026 14:00,Northwestern Medicine Field at Martin Stadium,Chicago Stars,Racing Louisville
+18,23/08/2026 16:00,Audi Field,Washington Spirit,Orlando Pride
+18,23/08/2026 18:00,PayPal Park,Bay,Houston Dash
+18,23/08/2026 20:00,BMO Stadium,Angel City,Gotham FC
+19,26/08/2026 20:00,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Angel City
+19,28/08/2026 20:00,Sports Illustrated Stadium,Gotham FC,Portland Thorns
+19,28/08/2026 22:00,Snapdragon Stadium,San Diego Wave,Racing Louisville
+19,29/08/2026 18:30,CPKC Stadium,Kansas City Current,North Carolina Courage
+19,29/08/2026 19:00,Inter&Co Stadium,Orlando Pride,Utah Royals
+19,29/08/2026 20:45,Centennial Stadium,Denver Summit,Chicago Stars
+19,30/08/2026 12:30,Audi Field,Washington Spirit,Bay
+19,30/08/2026 19:00,Lumen Field,Seattle Reign,Houston Dash
+19,31/08/2026 20:00,Gillette Stadium,Boston Legacy,Angel City
+20,04/09/2026 21:30,America First Field,Utah Royals,Boston Legacy
+20,04/09/2026 22:00,PayPal Park,Bay,Kansas City Current
+20,05/09/2026 18:30,Lynn Family Stadium,Racing Louisville,Angel City
+20,06/09/2026 14:00,Centennial Stadium,Denver Summit,Gotham FC
+20,06/09/2026 16:00,Northwestern Medicine Field at Martin Stadium,Chicago Stars,North Carolina Courage
+20,06/09/2026 16:00,Providence Park,Portland Thorns,Washington Spirit
+20,06/09/2026 19:00,Inter&Co Stadium,Orlando Pride,Houston Dash
+20,06/09/2026 21:00,Lumen Field,Seattle Reign,San Diego Wave
+21,11/09/2026 18:30,Lynn Family Stadium,Racing Louisville,Gotham FC
+21,11/09/2026 20:00,CPKC Stadium,Kansas City Current,Orlando Pride
+21,11/09/2026 22:00,BMO Stadium,Angel City,Denver Summit
+21,12/09/2026 18:30,Snapdragon Stadium,San Diego Wave,North Carolina Courage
+21,12/09/2026 20:00,Lumen Field,Seattle Reign,Bay
+21,12/09/2026 20:45,Shell Energy Stadium,Houston Dash,Utah Royals
+21,13/09/2026 13:00,Audi Field,Washington Spirit,Boston Legacy
+21,13/09/2026 19:00,Providence Park,Portland Thorns,Chicago Stars
+22,16/09/2026 21:30,Centennial Stadium,Denver Summit,Bay
+22,16/09/2026 22:00,BMO Stadium,Angel City,Seattle Reign
+22,18/09/2026 22:00,Snapdragon Stadium,San Diego Wave,Kansas City Current
+22,19/09/2026 16:00,Inter&Co Stadium,Orlando Pride,Portland Thorns
+22,19/09/2026 18:30,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Gotham FC
+22,19/09/2026 20:45,Centennial Stadium,Denver Summit,Seattle Reign
+22,20/09/2026 14:00,Centreville Bank Stadium,Boston Legacy,Houston Dash
+22,20/09/2026 17:00,Northwestern Medicine Field at Martin Stadium,Chicago Stars,Washington Spirit
+22,20/09/2026 19:00,PayPal Park,Bay,Racing Louisville
+22,20/09/2026 19:00,America First Field,Utah Royals,Angel City
+23,25/09/2026 18:30,Lynn Family Stadium,Racing Louisville,San Diego Wave
+23,25/09/2026 20:00,Sports Illustrated Stadium,Gotham FC,Chicago Stars
+23,25/09/2026 20:30,Lumen Field,Seattle Reign,Boston Legacy
+23,26/09/2026 12:30,CPKC Stadium,Kansas City Current,Denver Summit
+23,26/09/2026 18:30,Audi Field,Washington Spirit,Angel City
+23,26/09/2026 20:45,Providence Park,Portland Thorns,Houston Dash
+23,27/09/2026 17:00,PayPal Park,Bay,Orlando Pride
+23,27/09/2026 19:00,America First Field,Utah Royals,North Carolina Courage
+24,02/10/2026 20:00,Inter&Co Stadium,Orlando Pride,San Diego Wave
+24,02/10/2026 22:00,Lumen Field,Seattle Reign,North Carolina Courage
+24,03/10/2026 16:00,Lynn Family Stadium,Racing Louisville,Utah Royals
+24,03/10/2026 18:30,CPKC Stadium,Kansas City Current,Bay
+24,03/10/2026 20:45,Providence Park,Portland Thorns,Boston Legacy
+24,04/10/2026 12:00,Sports Illustrated Stadium,Gotham FC,Angel City
+24,04/10/2026 16:00,Northwestern Medicine Field at Martin Stadium,Chicago Stars,Denver Summit
+24,04/10/2026 19:00,Shell Energy Stadium,Houston Dash,Washington Spirit
+25,16/10/2026 20:00,Gillette Stadium,Boston Legacy,Racing Louisville
+25,17/10/2026 12:30,Audi Field,Washington Spirit,Gotham FC
+25,17/10/2026 18:30,America First Field,Utah Royals,Kansas City Current
+25,17/10/2026 19:00,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,San Diego Wave
+25,17/10/2026 20:45,Centennial Stadium,Denver Summit,Angel City
+25,18/10/2026 13:00,Shell Energy Stadium,Houston Dash,Orlando Pride
+25,18/10/2026 17:00,PayPal Park,Bay,Portland Thorns
+25,18/10/2026 19:00,Northwestern Medicine Field at Martin Stadium,Chicago Stars,Seattle Reign
+26,23/10/2026 20:00,Northwestern Medicine Field at Martin Stadium,Chicago Stars,Houston Dash
+26,23/10/2026 21:30,America First Field,Utah Royals,Seattle Reign
+26,23/10/2026 22:00,Providence Park,Portland Thorns,North Carolina Courage
+26,24/10/2026 18:30,Centennial Stadium,Denver Summit,Racing Louisville
+26,24/10/2026 20:45,BMO Stadium,Angel City,Bay
+26,25/10/2026 15:00,Inter&Co Stadium,Orlando Pride,Gotham FC
+26,25/10/2026 17:00,CPKC Stadium,Kansas City Current,Washington Spirit
+26,25/10/2026 19:00,Snapdragon Stadium,San Diego Wave,Boston Legacy
+27,01/11/2026 17:00,Audi Field,Washington Spirit,Chicago Stars
+27,01/11/2026 17:00,Lumen Field,Seattle Reign,Orlando Pride
+27,01/11/2026 17:00,First Horizon Stadium at WakeMed Soccer Park,North Carolina Courage,Denver Summit
+27,01/11/2026 17:00,Lynn Family Stadium,Racing Louisville,Kansas City Current
+27,01/11/2026 17:00,TBA,Angel City,Boston Legacy
+27,01/11/2026 17:00,Shell Energy Stadium,Houston Dash,Portland Thorns
+27,01/11/2026 17:00,Sports Illustrated Stadium,Gotham FC,Utah Royals
+27,01/11/2026 17:00,PayPal Park,Bay,San Diego Wave
